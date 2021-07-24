@@ -47,7 +47,7 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 // We make a variable called secret with no value
 // We make a variable called code and set it to 123 as a number
-// We check if code is the same data type and value. 123 is equal to 123.
+// We check if code is the same data type and value as 123. 123 is equal to 123.
 // Then secret variable is set to super as a string
 // Then code is set to the value of code multiplied by 2. Code is set to 426 as a number
 // We console.log 'super'
@@ -72,10 +72,16 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We make a variable called isStudent and set it to true as a boolean
+// We make a variable called age and set it to 34 as a number
+// We make a variable called zip and set it to 55407 as a number
+// We check if isStudent is the same data type and value and if zip is greater than 8000
+// isStudent is equal to true but zip is not greater than 8000
+// Then we check if isStudent is the same data type and value or if age is less than 30
+// isStudent is not equal to false and age is not less than 30
+// Then we check if isStudent is the same data type and value
+// isStudent is equal to true
+// We console.log 'Welcome to Prime!'
 
 //CODE
 /*
