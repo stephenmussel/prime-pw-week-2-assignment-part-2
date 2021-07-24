@@ -27,7 +27,7 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and set it to Dane as a string
-// We check if name is the same data type and value
+// We check if name is the same data type and value as Mary
 // Dane isn't equal to Mary
 // Then we console.log 'How do you do?'
 
@@ -75,11 +75,11 @@ console.log(secret)
 // We make a variable called isStudent and set it to true as a boolean
 // We make a variable called age and set it to 34 as a number
 // We make a variable called zip and set it to 55407 as a number
-// We check if isStudent is the same data type and value and if zip is greater than 8000
+// We check if isStudent is the same data type and value as true and if zip is greater than 8000
 // isStudent is equal to true but zip is not greater than 8000
-// Then we check if isStudent is the same data type and value or if age is less than 30
+// Then we check if isStudent is the same data type and value as true or if age is less than 30
 // isStudent is not equal to false and age is not less than 30
-// Then we check if isStudent is the same data type and value
+// Then we check if isStudent is the same data type and value as true
 // isStudent is equal to true
 // We console.log 'Welcome to Prime!'
 
