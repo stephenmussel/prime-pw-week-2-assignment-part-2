@@ -138,6 +138,9 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
+
+// FIX - colorOne should be set to blue as a string and colorTwo should be set to red as a string
+// Should be number++.
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
