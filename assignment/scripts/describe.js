@@ -171,6 +171,7 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
+// FIX - conditions are swapped and age should be compared to miniAge. comparison operator should also be >=
 if(minAge <= age) {
   console.log('no entry');
 } else {
