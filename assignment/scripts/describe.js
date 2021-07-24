@@ -27,7 +27,7 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make a variable called name and set it to Dane as a string
-// We check if name is the same data type and value.
+// We check if name is the same data type and value
 // Dane isn't equal to Mary
 // Then we console.log 'How do you do?'
 
@@ -45,10 +45,12 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+// We make a variable called secret with no value
+// We make a variable called code and set it to 123 as a number
+// We check if code is the same data type and value. 123 is equal to 123.
+// Then secret variable is set to super as a string
+// Then code is set to the value of code multiplied by 2. Code is set to 426 as a number
+// We console.log 'super'
 
 //CODE
 /*
