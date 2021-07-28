@@ -140,6 +140,7 @@ if (number >= 2) {
 /*
 
 // FIX - colorOne should be set to blue as a string and colorTwo should be set to red as a string
+// FIX (after assignment submission) also assign colorTwo = 'purple';
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
@@ -172,6 +173,7 @@ let age = 21;
 const minAge = 21;
 
 // FIX - conditions are swapped and age should be compared to miniAge. comparison operator should also be >=
+// FIX (after assignment submission) string in line 178 should read 'enter' and assuming string in line 180 should read 'no entry'
 if(minAge <= age) {
   console.log('no entry');
 } else {
